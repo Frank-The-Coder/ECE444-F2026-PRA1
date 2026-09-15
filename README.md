@@ -7,8 +7,6 @@
 
 ## Activity 3: Issue, pull request and merge conflict
 
-![Pull request showing a merge conflict in helloworld.py](pr-conflict.png)
-
 ![Pull request #2 successfully merged and closed](pr-merged.png)
 
 ![git log on main showing the merge commit](merge-log.png)
