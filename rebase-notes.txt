@@ -1,1 +1,2 @@
 This file was created on the rebase branch (c1).
+Second line added on the rebase branch (c2).
