@@ -36,6 +36,12 @@ $ git push origin main
 
 After the push GitHub detected that `main` contained every commit from `develop` and marked the pull request as merged and closed.
 
+![Pull request #2 successfully merged and closed](pr-merged.png)
+
+The merge commit `cdff495` on `main` has two parents, one from each branch:
+
+![git log on main showing the merge commit](merge-log.png)
+
 ## Activity 4: Unit tests
 
 `utils.py` defines the `utils` class with `reversed` and `formatter`; `utils_tests.py` tests both with integer, float and string inputs.
